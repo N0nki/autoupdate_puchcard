@@ -4,6 +4,11 @@
 
 いつのまにか消えてしまったGithubのpunchcard機能を[N0nki/git-punchcard-plot](https://github.com/N0nki/git-punchcard-plot)で再現しています。  
 
-## empty
+## dotfiles
 
-![image](empty.png)
+![image](dotfiles.png)
+
+
+## proposal_packages
+
+![image](proposal_packages.png)
